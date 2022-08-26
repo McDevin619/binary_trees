@@ -258,8 +258,8 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Robert Nashief</summary>
+    <summary>Phillip Esuon Quacue Abekah</summary>
     <ul>
-    <li><a href="robertnashiefd@gmail.com">e-mail</a></li>
+    <li><a href="phillipesuon@gmail.com">e-mail</a></li>
     </ul>
 </details>
